@@ -3,7 +3,7 @@ Greater Boston Pandemic Fabrication Team Powered Air-Purifying Respirator (PanFa
 
 Akshay Kothakonda, Lyla Atta, Deborah Plana, Ferrous Ward, Nicole R. LeBoeuf, Peter K. Sorger, <i>et al </i>. 
 
-Preprint: https://www.medrxiv.org/content/10.1101/2021.03.25.21252076v1
+Publication: https://www.frontiersin.org/articles/10.3389/fbioe.2021.690905/full
 
 ![Website Intro Page Image-01](https://user-images.githubusercontent.com/20215690/109554585-69029680-7aa2-11eb-9e95-edce5c98f020.png)
 
